@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @miladamel
-- 👀 I’m interested in IT fields , Security , Network , develope as fullStack  
-- 🌱 I’m currently learning javaScript , NodeJS , React , HTML , CSS
-- 📫 How to reach me azmilad88@gmail.com
+- 👋 Hi, I’m milad amel
+- 👀 I’m interested in IT fields like development , network and devOps , etc..  
+- 🌱 I’m currently learning MERN stack , animated design and devOps fundamentals .
+- 📫 How to reach me => azmilad88@gmail.com
 
 <!---
 miladamel/miladamel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
